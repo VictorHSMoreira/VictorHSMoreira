@@ -42,4 +42,4 @@ Os principais desafios foram:
 <br>
 <a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/SQL/Adventure%20Queries.sql" target="_blank">Clique aqui</a> e acesse o as consultas desenvolvida para o cliente.
 <br>
-<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
