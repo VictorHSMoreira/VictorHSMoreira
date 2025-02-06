@@ -35,3 +35,8 @@ Os principais desafios foram:
 - Realizar consultas em SQL com diferentes recursos, como GROUP BU, WHERE, HAVING, LAG e CTE.
 - Estatistica descritiva buscando a média para entender alguns pontos
 - Identificar possível motivo para o grande aumento no faturamento no ano de 2013
+
+<br>
+<a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/SQL/Adventure%20Queries.sql" target="_blank">Clique aqui</a> e acesse o as consultas desenvolvida para o cliente.
+<br>
+<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
