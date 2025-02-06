@@ -18,7 +18,9 @@ Principais ferramentas:
 
 Onde me encontrar:
 <div style="display: inline_block">
-  <a href="www.linkedin.com/in/victor-h-moreira-399586188">
+  <a href="https://www.linkedin.com/in/victor-h-moreira-399586188/">
     <img align="center" alt="" height="40" width="40" src="https://github.com/VictorHSMoreira/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
 </div>
+
+<br>
