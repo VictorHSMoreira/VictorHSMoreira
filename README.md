@@ -24,3 +24,14 @@ Onde me encontrar:
 </div>
 
 <br>
+
+## Portifólio e principais projetos
+
+# Análise exploratória AdventureWorks
+
+Porejeto desenvolvimento com intuito de realizar uma análise exploratório no banco de dados da empresa fictícia AdventureWorks. 
+Buscamos compreender o cenário atual da empresa, voltado para suas vendas, identificando tendências.
+Os principais desafios foram:
+- Realizar consultas em SQL com diferentes recursos, como GROUP BU, WHERE, HAVING, LAG e CTE.
+- Estatistica descritiva buscando a média para entender alguns pontos
+- Identificar possível motivo para o grande aumento no faturamento no ano de 2013
