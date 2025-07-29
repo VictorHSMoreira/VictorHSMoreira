@@ -4,7 +4,7 @@
 
 Sobre mim:
 
-- 🏠 Atualmente morndo em Uberlândia -MG
+- 🏠 Atualmente morando em Uberlândia -MG
 - 🛠 Me desenvolvendo em SQL e Power BI
 - 📖 Concluindo o curso de Ciências Contábeis
 
