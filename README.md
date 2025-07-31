@@ -30,7 +30,7 @@ Onde me encontrar:
 
 # Análise exploratória AdventureWorks
 
-<img align="right" width="400"  src="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/Nova%20pasta/Querie%204.1.png?raw=true">
+<img align="right" width="500"  src="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/Nova%20pasta/Querie%204.1.png?raw=true">
 
 
 Porejeto desenvolvimento com intuito de realizar uma análise exploratório no banco de dados da empresa fictícia AdventureWorks. 
