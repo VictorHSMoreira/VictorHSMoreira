@@ -44,7 +44,7 @@ Os principais desafios foram:
 <br>
 <a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-
+<br>
 
 # Dashboard E-commerce Brazil
 
