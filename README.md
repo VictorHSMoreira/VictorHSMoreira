@@ -50,6 +50,8 @@ Os principais desafios foram:
   
 # Dashboard E-commerce Brazil
 
+<img align="right" width="400"  src="https://github.com/VictorHSMoreira/E-commerce/blob/main/PBI.png?raw=true">
+
 
 Este projeto foi desenvolvido com base no dataset Brazilian E-commerce, com o objetivo de analisar o cenário de vendas por plataformas virtuais no Brasil. A iniciativa vai além da simples descrição de indicadores como o mês com maior volume de vendas, média de faturamento, item mais vendido e principais formas de pagamento. O foco está na análise crítica dos dados para identificar possíveis ameaças ao negócio, investigar suas causas e propor planos de ação eficazes.
 Os principais desafio foram:
