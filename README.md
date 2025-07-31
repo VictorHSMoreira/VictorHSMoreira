@@ -25,6 +25,7 @@ Onde me encontrar:
 
 <br>
 
+  
 ## Portifólio e principais projetos
 
 # Análise exploratória AdventureWorks
