@@ -62,6 +62,6 @@ Os principais desafio foram:
 <br>
 <a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/SQL/Adventure%20Queries.sql" target="_blank">Clique aqui</a> e acesse o as consultas desenvolvida para o cliente.
 <br>
-<a href="https://https://github.com/VictorHSMoreira/E-commerce" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/VictorHSMoreira/E-commerce" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br>
