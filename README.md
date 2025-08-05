@@ -59,9 +59,11 @@ Os principais desafio foram:
 - Identificar os principais motivos de cancelamento das vendas;
 - Avaliar o desempenho das entregas, incluindo atrasos e impactos na experiência do cliente.
 
+A base de dados, pode ser acessada em: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 <br>
-<a href="https://github.com/VictorHSMoreira/AdventureWorksPortifolio/blob/main/SQL/Adventure%20Queries.sql" target="_blank">Clique aqui</a> e acesse o as consultas desenvolvida para o cliente.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzI5OTM4OTAtYjA4NC00YWVlLTg0ZmYtOWY5YjYwNTAzMzIwIiwidCI6ImI5YzM2ZDQwLTdjZGMtNDc0My1hNzZjLTlhNTQ0Mjg2ZDIyNSJ9" target="_blank">Clique aqui</a> e acesse o Power Bi na web.
 <br>
-<a href="https://github.com/VictorHSMoreira/E-commerce" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/VictorHSMoreira/E-commerce-Brazil.git" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br>
